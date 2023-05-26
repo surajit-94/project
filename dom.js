@@ -101,6 +101,6 @@ document.getElementById('expenseList').addEventListener('click', function (e) {
   }
 });
 
-// Rest of the code...
+
 
 
